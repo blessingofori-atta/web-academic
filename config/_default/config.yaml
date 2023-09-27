@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Benjamin Osafo Agyare # Website name
+title: Blessing S. Ofori-Atta # Website name
 baseurl: '' # Website URL
-copyright: '© B. Osafo Agyare 2023' # Footer text, e.g. '© {year} Me'
+copyright: '© B. Ofori-Atta 2023' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
