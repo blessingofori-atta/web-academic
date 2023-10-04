@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Benjamin Osafo Agyare
+title: Blessing Ofori-Atta
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Statistics
+role: Biostatistician
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Michigan
+- name: Study Design and Biostatistics Center, UofU
   url: https://lsa.umich.edu/stats
 
 # Short bio (displayed in user profile at end of posts)
