@@ -48,10 +48,16 @@ home_section_even = "rgb(255, 255, 255)"
 
 # Alternative theme colors (either [light] or [dark]) (https://wowchemy.com/uploads/sponsors/Wowchemy_Hugo_Cheat_Sheet.pdf)
 # Supports all color options above except `primary
-#[dark]
-  #home_section_odd = "#E2E6E6"
-  #home_section_even = "rgb(255, 255, 255)"
+[dark]
+  home_section_odd = "#E2E6E6"
+  home_section_even = "rgb(255, 255, 255)"
 
   # Link Color
-  #link = "#be3000"
-  #link_hover = "#BE0000"
+  link = "#be3000"
+  link_hover = "#BE0000"
+
+  # Menu colors
+  menu_primary = "#000000"  #Menu background
+  menu_text = "#FFFFFF" #Menu text color
+  menu_text_active = "#BE0000" #Menu active link colour
+  menu_title = "#FFFFFF" #Menu title colour
