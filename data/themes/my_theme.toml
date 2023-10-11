@@ -14,30 +14,30 @@ light = false
 #menu_title = "#002547"
 
 # Backgrounds
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "#E2E6E6"
+home_section_odd = "#E2E6E6"
+home_section_even = "rgb(255, 255, 255)"
 
 # Primary
 primary = "#BE0000"
 
 # Menu
 menu_primary = "#890000"
-menu_text = "#00284d"
-menu_text_active = "#002547"
-menu_title = "#002547"
+menu_text = "#E2E6E6"
+menu_text_active = "#000000"
+menu_title = "#000000"
 
 # Backgrounds
 #home_section_odd = "#00284d"
 #home_section_even = "#002547"
 
 dark_background = "#E2E6E6"
-dark_home_section_odd = "rgb(255, 255, 255)"
-dark_home_section_even = "#E2E6E6"
+dark_home_section_odd = "#E2E6E6"
+dark_home_section_even = "rgb(255, 255, 255)"
 
 
 #link = "#d1b900"
 #link_hover = "#b59104"
-link = "#BE0000"
+link = "rgb(255, 255, 255)"
 link_hover = "#BE0000"
 
 
