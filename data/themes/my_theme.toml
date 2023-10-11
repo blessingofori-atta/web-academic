@@ -25,7 +25,7 @@ light = false
 # Primary: Your brand color (used for buttons etc.)
 primary = "#BE0000"
 primary_light = "#BE0000"   #change the base or highlight colors of the tabs (eg. in software section)
-primary_dark = "#BE0000"
+primary_dark = "#890000"    #highlight of project titles
 
 # Link Color
 link = "#be3000"
