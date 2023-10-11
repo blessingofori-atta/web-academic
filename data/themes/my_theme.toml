@@ -28,8 +28,8 @@ primary_light = "#BE0000"
 primary_dark = "#BE0000"
 
 # Link Color
-#link = "#be3000"
-#link_hover = "#BE0000"
+link = "#be3000"
+link_hover = "#BE0000"
 
 # Menu colors
 menu_primary = "#000000"  #Menu background
@@ -38,7 +38,7 @@ menu_text_active = "#BE0000" #Menu active link colour
 menu_title = "#FFFFFF" #Menu title colour
 
 # Backgrounds: Default odd and even widget page section background colors
-#background = "#E2E6E6"
+background = "#E2E6E6"
 home_section_odd = "#E2E6E6"
 home_section_even = "rgb(255, 255, 255)"
 
