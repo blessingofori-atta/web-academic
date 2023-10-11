@@ -24,7 +24,7 @@ light = false
 #------------------------------------------------------------
 # Primary: Your brand color (used for buttons etc.)
 primary = "#BE0000"
-primary_light = "#BE0000"
+primary_light = "#BE0000"   #change the base or highlight colors of the tabs (eg. in software section)
 primary_dark = "#BE0000"
 
 # Link Color
@@ -33,12 +33,12 @@ link_hover = "#BE0000"
 
 # Menu colors
 menu_primary = "#000000"  #Menu background
-menu_text = "#FFFFFF" #Menu text color
-menu_text_active = "#BE0000" #Menu active link colour
+menu_text = "#FFFFFF" #Menu text color: controls the color of main menu text in the top of the webpage
+menu_text_active = "#BE0000" #Menu active link colour: Controls the color of main menu text in the top of the webpage when it’s highlighted by the cursor
 menu_title = "#FFFFFF" #Menu title colour
 
 # Backgrounds: Default odd and even widget page section background colors
-background = "#E2E6E6"
+#background = "#E2E6E6"
 home_section_odd = "#E2E6E6"
 home_section_even = "rgb(255, 255, 255)"
 
