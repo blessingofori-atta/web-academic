@@ -10,7 +10,7 @@ font: my_font_set
 font_size: S
 
 # Colors and fonts. Default style is data/styles/default.yaml/
-style: mine
+#style: mine
 
 # SEO
 
