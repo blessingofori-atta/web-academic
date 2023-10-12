@@ -41,6 +41,7 @@ menu_title = "#FFFFFF" #Menu title colour
 #background = "#E2E6E6"
 home_section_odd = "#E2E6E6"
 home_section_even = "rgb(255, 255, 255)"
+home_section_text = "#000000"
 
 #dark_background = "#E2E6E6"
 #dark_home_section_odd = "#E2E6E6"
@@ -64,5 +65,5 @@ home_section_even = "rgb(255, 255, 255)"
 
   #Main texts
   home_section_text = "#000000"
-  secondary_text = "#000000
+  #secondary_text = "#000000
   
