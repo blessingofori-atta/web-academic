@@ -38,10 +38,10 @@ menu_text_active = "#BE0000" #Menu active link colour: Controls the color of mai
 menu_title = "#FFFFFF" #Menu title colour
 
 # Backgrounds: Default odd and even widget page section background colors
-#background = "#E2E6E6"
+background = "#E2E6E6"
 home_section_odd = "#E2E6E6"
 home_section_even = "rgb(255, 255, 255)"
-#home_section_text = "#000000"
+
 
 #dark_background = "#E2E6E6"
 #dark_home_section_odd = "#E2E6E6"
