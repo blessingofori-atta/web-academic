@@ -21,7 +21,7 @@ interests:
 - Statistical Computing
 - Longitudinal Data Analysis
 - Survival Analysis
-- Causal Inference
+- Statistical Methods for Observational Studies
 
 
 # Education to show in About widget
@@ -79,10 +79,6 @@ user_groups:
 - Teachers
 ---
 
-I'm a Biostatistican at UofU who is passionate about medical research. I specialize in transplanting data into actionable insights. 
+I'm a Biostatistician at SDBC, University of Utah, who is passionate about medical research. I specialize in transplanting data into actionable insights and providing state-of-the-art statistical support to researchers. 
 
-#I am a third-year PhD student in the [Statistics program](https://lsa.umich.edu/stats) at the University of Michigan, Ann Arbor. I come from Mpraeso, a beautiful small town in the Okwahu plains in the eastern region of #Ghana. I obtained my MS degree in Statistics & Data Science at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from Kwame Nkrumah University of Science and Technology.   
 
-#I am working under the supervision of [Prof. Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html) on Generalized Expectile Estimating Equations (GEEE) applied to Longitudinal Genetics Data.
-
-#When I have some time to spare, I enjoy listening to music, spending time with my friends and family and watching soccer (I'm a staunch fan of Manchester United).
