@@ -79,6 +79,8 @@ user_groups:
 - Teachers
 ---
 
-I'm a Biostatistician at SDBC, University of Utah, who is passionate about medical research. I specialize in transplanting data into actionable insights and providing state-of-the-art statistical support to researchers. 
+Hello there! I'm Blessing, a Biostatistician at SDBC, University of Utah, with a passion for medical research. My journey is all about diving deep into the world of healthcare data, where I specialize in translating data into actionable insights. I am dedicated to providing state-of-the-art statistical support to researchers, ensuring that their projects are not just scientifically robust but also socially impactful.
+
+
 
 
