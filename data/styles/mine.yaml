@@ -1,8 +1,9 @@
 # Normal(400), semibold(600), bold(700) font weight needed.
 fonts: 
-  - name: Roboto
-    googleFonts: Roboto:wght@400;600;700
+  - name: my_font
+    googleFonts: family=Vesper+Libre&family=Viaoda+Libre&family=Oxygen&family=Raleway
 
+     
 colors:
   light:
     theme: "#38b2ac"
