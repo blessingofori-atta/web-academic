@@ -61,3 +61,8 @@ home_section_even = "rgb(255, 255, 255)"
   menu_text = "#FFFFFF" #Menu text color
   menu_text_active = "#BE0000" #Menu active link colour
   menu_title = "#FFFFFF" #Menu title colour
+
+  #Main texts
+  primaryText = "#000000"
+  secondaryText = "#000000
+  
