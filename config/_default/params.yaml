@@ -4,12 +4,14 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+# Colors and fonts. Default style is data/styles/default.yaml/
+style: mine
 
-theme: my_theme
+#theme: my_theme
 day_night: false
-font: my_font_set
+#font: my_font_set
 font_size: S
-color: #000000
+#color: #000000
 
 # SEO
 
