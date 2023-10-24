@@ -18,9 +18,9 @@ bio: Biostatistician.
 
 # Interests to show in About widget
 interests:
+- Survival Analysis
 - Statistical Computing
 - Longitudinal Data Analysis
-- Survival Analysis
 - Statistical Methods for Observational Studies
 
 
