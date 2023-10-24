@@ -30,5 +30,4 @@ design:
 ---
 
 <!div style="text-align: left;"><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=afd830&w=315&t=m&d=8fvHzo2TbhnQ_DEXv2wetFcZcCmIVCzrg7kLDuRfo94&co=2d78ad&cmo=f71e1e&cmn=f4940a&ct=ffffff'></script></div>
-
 <div style="text-align: left;"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=diTs5NKaweppXjz45Sk1tzr3O_1fHByAQpJwhE89OAQ"></script></div><br/>
