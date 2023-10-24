@@ -26,7 +26,7 @@ main:
     weight: 20
     
   - name: Teaching
-    url: '#teaching'
+    url: '/teaching/my_classes/'
     weight: 30
     
 #  - name: Software
