@@ -53,6 +53,9 @@ social:
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: 
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=Bsv7IkkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/blessingofori-atta
@@ -79,8 +82,10 @@ user_groups:
 - Teachers
 ---
 
-Hello there! I'm Blessing, a Biostatistician at SDBC, University of Utah, with a passion for medical research. My journey is all about diving deep into the world of healthcare data, where I specialize in translating data into actionable insights. I am dedicated to providing state-of-the-art statistical support to researchers, ensuring that their projects are not just scientifically robust but also socially impactful.
+Hello there! I'm Blessing, a Biostatistician at SDBC, University of Utah, with a passion for medical research. I specialize in diving deep into healthcare data and translating it into actionable insights. I am dedicated to providing state-of-the-art statistical support to researchers, making sure that their projects are not just scientifically robust but also socially impactful.
 
+I'm also a bit of a data detective. I love the challenge of finding the needles in the haystack, and I'm always looking for new ways to use data to make a difference.
 
+Whether I'm working on a study design, or analyzing data from a large observational study to identify risk factors for disease or situations, I'm always driven by the same goal: to use data to improve the lives of others.
 
-
+**If you're interested in learning more about my work, or if you have a data mystery that needs solving, please don't hesitate to contact me. I'm always happy to help.**
