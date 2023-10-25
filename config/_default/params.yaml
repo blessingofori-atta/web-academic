@@ -38,7 +38,7 @@ twitter: ''
 #office_hours:
  # - 'Monday 10:00 to 13:00'
 #  - 'Saturday 10:00 to 12:00'
-#appointment_url: 'https://calendly.com/boforiatta'
+appointment_url: 'https://calendly.com/boforiatta'
 contact_links:
 #  - icon: twitter
 #    icon_pack: fab
