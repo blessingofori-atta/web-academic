@@ -27,7 +27,7 @@ design:
 
 Semester |  Course | Course Title
 :--- |  :--- | :--- 
-**Graduate Teaching Assistant, University of Nevada, Reno**  |  |
+|  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp **Graduate Teaching Assistant, University of Nevada, Reno**  |  
 Fall 2019   |  Math 126  | Pre-Calculus I
 Winter 2019 |  Math 126  | Pre-Calculus I
 Spring 2020 |  Math 127  | Pre-Calculus II
@@ -35,6 +35,6 @@ Summer 2020 |  Math 127  | Pre-Calculus II
 Fall 2020   |  Math 181  | Calculus
 Winter 2020 |  Math 127  | Pre-Calculus II
 Spring 2021 |  Math 181  | Pre-Calculus
-&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp **Graduate Student Instructor, Northern Arizona University** 
+|   &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp **Graduate Student Instructor, Northern Arizona University** |
 -->
 
