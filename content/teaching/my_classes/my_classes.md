@@ -28,11 +28,14 @@ design:
 Semester |  Course | Course Title
 :--- |  :--- | :--- 
  |  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp **Graduate Teaching Assistant, University of Nevada, Reno**  |  
-Fall 2019, Winter 2019 |  MATH 126  | Pre-Calculus I
-Spring 2020, Summer 2020, Winter 2020 |  MATH 127  | Pre-Calculus II
 Fall 2020, Spring 2021   |  MATH 181  | Calculus
+Spring 2020, Summer 2020, Winter 2020 |  MATH 127  | Pre-Calculus II
+Fall 2019, Winter 2019 |  MATH 126  | Pre-Calculus I
  |  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp **Graduate Student Instructor, Northern Arizona University** |
-Fall 2017 |  MATH 108  | Algebra for Pre-Calculus
-Spring 2018 |  MATH 125  | Pre-Calculus
 Fall 2019, Spring 2019 |  STA 270  | Applied Statistics
+Spring 2018 |  MATH 125  | Pre-Calculus
+Fall 2017 |  MATH 108  | Algebra for Pre-Calculus
+|  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp **Teaching Assistant, Kwame Nkrumah University of Science and Technology** |
+Spring 2017 |  ACTS 567  | Actuarial Mathematics I
+Fall 2016 |  MATH 165  | Introduction to Vector Analysis
  
