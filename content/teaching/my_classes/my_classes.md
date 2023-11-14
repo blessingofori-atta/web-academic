@@ -26,3 +26,17 @@ design:
 
 - STATS 306 - Introduction to Statistical Computing &nbsp; || &nbsp; Fall 2022<!--(https://bosafoagyare.netlify.app/courses/stats306-f23/) -->  
 - [STATS 306 - Introduction to Statistical Computing &nbsp; || &nbsp; Winter 2022](https://bosafoagyare.netlify.app/courses/stats306-w22/)
+
+Semester |  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp Course | Course Title
+:--- |  :--- | :--- | :---
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp **Graduate Teaching Assistant, University of Nevada, Reno** 
+Fall 2019   |  Math 126  | Pre-Calculus I
+Winter 2019 |  Math 126  | Pre-Calculus I
+Spring 2020 |  Math 127  | Pre-Calculus II
+Summer 2020 |  Math 127  | Pre-Calculus II
+Fall 2020   |  Math 181  | Calculus
+Winter 2020 |  Math 127  | Pre-Calculus II
+Spring 2021 |  Math 181  | Pre-Calculus
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp **Graduate Student Instructor, Northern Arizona University** 
+-->
+
