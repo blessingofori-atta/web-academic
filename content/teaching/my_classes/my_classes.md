@@ -26,7 +26,7 @@ design:
 
 
 Semester |  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp Course | Course Title
-:--- |  :--- | :--- | :---
+:--- |  :--- | :--- 
 &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp **Graduate Teaching Assistant, University of Nevada, Reno** 
 Fall 2019   |  Math 126  | Pre-Calculus I
 Winter 2019 |  Math 126  | Pre-Calculus I
