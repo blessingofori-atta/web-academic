@@ -1,13 +1,13 @@
 ---
-title: "A Bayesian Hierarchical Model for US Election Data"
+title: "A stock market model based on CAPM and market size"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Connor Dayton
-- Jaucelyn Canfield
+- Brandon Flores
+- Andrey Sarantsev
 
 draft: false
 
@@ -27,14 +27,13 @@ publishDate: "2022-04-28T00:00:00Z"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: 
- - "4"
+ - "2"
 
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
 
-abstract: We compare federal election results for each state versus the USA in every second year from 1992 to 2016 to model partisan lean of each state and its dependence on the nationwide popular vote. For each state, we model both its current partisan lean and its rate of change, as well as sensitivity of state results with respect to the nationwide popular vote, using a Bayesian Hierarchical Model. We then apply this model to predict and compare results with the actual values for the 2018 election.
-
+abstract: We introduce a new system of stochastic differential equations which models dependence of market beta and unsystematic risk upon size, measured by market capitalization. We fit our model using size deciles data from Kenneth French’s data library. This model is somewhat similar to generalized volatility-stabilized models. The novelty of our work is twofold. First, we take into account the difference between price and total returns (in other words, between market size and wealth processes). Second, we work with actual market data. We study the long-term properties of this system of equations, and reproduce observed linearity of the capital distribution curve. In the “Appendix”, we analyze size-based real-world index funds.
 
 # Summary. An optional shortened abstract.
 summary: ''
