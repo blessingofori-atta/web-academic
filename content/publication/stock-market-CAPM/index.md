@@ -1,68 +1,100 @@
-+++
-title = "Dynamics of dead wood decay in Swiss forests"
-date = "2020-06-09"
+---
+title: "A stock market model based on CAPM and market size"
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["O Hararuk", "W Kurz", "M Didion"]
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- Brandon Flores
+- admin
+- Andrew Sarantsev
+
+draft: false
+
+# Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+
+date: "2021-09-01T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2023-11-05T00:00:00Z"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["2"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: 
+ - ["2"]
 
-# Publication name and optional abbreviated version.
-publication = "In Forest Ecosystems"
-#publication = "In *Ecological Modelling*, Ecol Modell."
-publication_short = "In *Forest Ecosystems*"
+# Publication name and optional abbreviated publication name.
+publication: ''
+publication_short: ''
 
-# Abstract and optional shortened version.
-abstract = "Forests are an important component of the global carbon (C) cycle and can be net sources or sinks of CO<sub>2</sub>, thus mitigating or exacerbating the effects of anthropogenic greenhouse gas emissions. While forest productivity is often inferred from national-scale yield tables or from satellite products, forest C emissions resulting from dead organic matter decay are usually simulated, therefore it is important to ensure the accuracy and reliability of a model used to simulate organic matter decay at an appropriate scale. National Forest Inventories (NFIs) provide a record of carbon pools in ecosystem components, and these measurements are essential for evaluating rates and controls of C dynamics in forest ecosystems. In this study we combine the observations from the Swiss NFIs and machine learning techniques to quantify the decay rates of the standing snags and downed logs and identify the main controls of dead wood decay.We found that wood decay rate was affected by tree species, temperature, and precipitation. Dead wood originating from Fagus sylvatica decayed the fastest, with the residence times ranging from 27 to 54 years at the warmest and coldest Swiss sites, respectively. Hardwoods at wetter sites tended to decompose faster compared to hardwoods at drier sites, with residence times 45-92 and 62-95 years for the wetter and drier sites, respectively. Dead wood originating from softwood species had the longest residence times ranging from 58 to 191 years at wetter sites and from 78 to 286 years at drier sites.This study illustrates how long-term dead wood observations collected and remeasured during several NFI campaigns can be used to estimate dead wood decay parameters, as well as gain understanding about controls of dead wood dynamics. The wood decay parameters quantified in this study can be used in carbon budget models to simulate the decay dynamics of dead wood, however more measurements (e.g. of soil C dynamics at the same plots) are needed to estimate what fraction of dead wood is converted to CO<sub>2</sub>, and what fraction is incorporated into soil."
+abstract: Linear regression sometimes present us with the problem of 
+ high dimensionality –especially when the covariates, p is far greater than
+ the sample size, n. A frequentist approach to tackling such problems include
+ adopting shrinkage methods via penalization. However, penalization methods
+ present yet another challenge of quantifying parameter uncertainties.
+ Bayesian approach gives us the power to quantity parameters via estimating
+ the posterior distribution for such parameters using Markov Chain
+ Monte Carlo (MCMC) techniques. With such high dimensional shrinkage methods,
+ we need super fast MCMC algorithms that are efficient and 
+ computationally relative inexpensive. In this simulation study, 
+ we compare and show that the two-Block Gibbs samplers (2BG) is a more efficient
+ state of the art MCMC algorithm relative to the three-Block Gibbs samplers (3BG)
+ method in estimating the posterior distributions of two commonly used
+ Bayesian shrinkage models, viz the Bayesian Lasso (BL) and the Spike-and-Slab
+ shrinkage priors. Our criteria for evaluation include the one-lag autocorrelation
+ and the average effective sample size per second, Neff/T. Consequently,
+ we apply these methods on the protein expression genetics data from the
+ National cancer Institute. 
 
+# Summary. An optional shortened abstract.
+summary: ''
 
-# Featured image thumbnail (optional)
-#image_preview = "headers/GCB_2018_1.png"
-image_preview = false
+tags: []
+categories: []
 
-# Is this a selected publication? (true/false)
-selected = true
+# Display this page in the Featured widget?
+featured: false
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["Model-data fusion"]
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
-# Links (optional).
-url_pdf = "https://forestecosyst.springeropen.com/track/pdf/10.1186/s40663-020-00248-x"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "https://forestecosyst.springeropen.com/articles/10.1186/s40663-020-00248-x"}]
-
-# Does the content use math formatting?
-math = true
-
-# Does the content use source code highlighting?
-highlight = true
+url_pdf: 'osafoagyare-bayesianshrikage-2023.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/FE_2020.jpg"
-caption = "FE_2020"
-#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.(below)
-+++
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'MCMC traceplot and density'
+  focal_point: Smart
+  placement: 1
+  preview_only: false
 
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+# projects:
+# - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
