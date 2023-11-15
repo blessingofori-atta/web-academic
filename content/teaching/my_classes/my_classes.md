@@ -27,7 +27,7 @@ design:
 
 |Semester |  Course | Course Title|
 :--- |  :--- | :--- 
-| &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp **Graduate Teaching Assistant <br> UNR** |  |
+| &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp **Graduate Teaching Assistant <br><center>UNR</center>** |  |
 Fall 2020, Spring 2021   |  MATH 181  | Calculus
 Spring 2020, Summer 2020, Winter 2020 |  MATH 127  | Pre-Calculus II
 Fall 2019, Winter 2019 |  MATH 126  | Pre-Calculus I
