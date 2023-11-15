@@ -82,4 +82,3 @@ projects: []
 slides: example
 ---
 
-
