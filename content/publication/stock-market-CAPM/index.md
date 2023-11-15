@@ -1,66 +1,68 @@
----
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
++++
+title = "Dynamics of dead wood decay in Swiss forests"
+date = "2020-06-09"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["O Hararuk", "W Kurz", "M Didion"]
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["2"]
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+# Publication name and optional abbreviated version.
+publication = "In Forest Ecosystems"
+#publication = "In *Ecological Modelling*, Ecol Modell."
+publication_short = "In *Forest Ecosystems*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# Abstract and optional shortened version.
+abstract = "Forests are an important component of the global carbon (C) cycle and can be net sources or sinks of CO<sub>2</sub>, thus mitigating or exacerbating the effects of anthropogenic greenhouse gas emissions. While forest productivity is often inferred from national-scale yield tables or from satellite products, forest C emissions resulting from dead organic matter decay are usually simulated, therefore it is important to ensure the accuracy and reliability of a model used to simulate organic matter decay at an appropriate scale. National Forest Inventories (NFIs) provide a record of carbon pools in ecosystem components, and these measurements are essential for evaluating rates and controls of C dynamics in forest ecosystems. In this study we combine the observations from the Swiss NFIs and machine learning techniques to quantify the decay rates of the standing snags and downed logs and identify the main controls of dead wood decay.We found that wood decay rate was affected by tree species, temperature, and precipitation. Dead wood originating from Fagus sylvatica decayed the fastest, with the residence times ranging from 27 to 54 years at the warmest and coldest Swiss sites, respectively. Hardwoods at wetter sites tended to decompose faster compared to hardwoods at drier sites, with residence times 45-92 and 62-95 years for the wetter and drier sites, respectively. Dead wood originating from softwood species had the longest residence times ranging from 58 to 191 years at wetter sites and from 78 to 286 years at drier sites.This study illustrates how long-term dead wood observations collected and remeasured during several NFI campaigns can be used to estimate dead wood decay parameters, as well as gain understanding about controls of dead wood dynamics. The wood decay parameters quantified in this study can be used in carbon budget models to simulate the decay dynamics of dead wood, however more measurements (e.g. of soil C dynamics at the same plots) are needed to estimate what fraction of dead wood is converted to CO<sub>2</sub>, and what fraction is incorporated into soil."
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# Featured image thumbnail (optional)
+#image_preview = "headers/GCB_2018_1.png"
+image_preview = false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+projects = ["Model-data fusion"]
+
+# Links (optional).
+url_pdf = "https://forestecosyst.springeropen.com/track/pdf/10.1186/s40663-020-00248-x"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Custom Link", url = "https://forestecosyst.springeropen.com/articles/10.1186/s40663-020-00248-x"}]
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
----
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/FE_2020.jpg"
+caption = "FE_2020"
+#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.(below)
++++
 
