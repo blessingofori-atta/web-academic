@@ -5,8 +5,8 @@ title: "A stock market model based on CAPM and market size"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Brandon Flores
 - admin
+- Brandon Flores
 - Andrey Sarantsev
 
 draft: false
@@ -30,7 +30,7 @@ publication_types:
  - "2"
 
 # Publication name and optional abbreviated publication name.
-publication: 'Annals of Finance'
+publication: ''
 publication_short: ''
 
 abstract: We introduce a new system of stochastic differential equations which models dependence of market beta and unsystematic risk upon size, measured by market capitalization. We fit our model using size deciles data from Kenneth French’s data library. This model is somewhat similar to generalized volatility-stabilized models. The novelty of our work is twofold. First, we take into account the difference between price and total returns (in other words, between market size and wealth processes). Second, we work with actual market data. We study the long-term properties of this system of equations, and reproduce observed linearity of the capital distribution curve. In the “Appendix”, we analyze size-based real-world index funds.
