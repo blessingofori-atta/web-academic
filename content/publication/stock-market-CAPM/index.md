@@ -26,31 +26,14 @@ publishDate: "2023-11-05T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types:["2"]
 # - "4"
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: 'In Annals of Finance'
 publication_short: ''
 
-abstract: Linear regression sometimes present us with the problem of 
- high dimensionality –especially when the covariates, p is far greater than
- the sample size, n. A frequentist approach to tackling such problems include
- adopting shrinkage methods via penalization. However, penalization methods
- present yet another challenge of quantifying parameter uncertainties.
- Bayesian approach gives us the power to quantity parameters via estimating
- the posterior distribution for such parameters using Markov Chain
- Monte Carlo (MCMC) techniques. With such high dimensional shrinkage methods,
- we need super fast MCMC algorithms that are efficient and 
- computationally relative inexpensive. In this simulation study, 
- we compare and show that the two-Block Gibbs samplers (2BG) is a more efficient
- state of the art MCMC algorithm relative to the three-Block Gibbs samplers (3BG)
- method in estimating the posterior distributions of two commonly used
- Bayesian shrinkage models, viz the Bayesian Lasso (BL) and the Spike-and-Slab
- shrinkage priors. Our criteria for evaluation include the one-lag autocorrelation
- and the average effective sample size per second, Neff/T. Consequently,
- we apply these methods on the protein expression genetics data from the
- National cancer Institute. 
+abstract: We introduce a new system of stochastic differential equations which models dependence of market beta and unsystematic risk upon size, measured by market capitalization. We fit our model using size deciles data from Kenneth French’s data library. This model is somewhat similar to generalized volatility-stabilized models. The novelty of our work is twofold. First, we take into account the difference between price and total returns (in other words, between market size and wealth processes). Second, we work with actual market data. We study the long-term properties of this system of equations, and reproduce observed linearity of the capital distribution curve. In the “Appendix”, we analyze size-based real-world index funds.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -78,9 +61,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'MCMC traceplot and density'
+  caption: 'Residual vs Ck(n) for top decile benchmark'
   focal_point: Smart
-  placement: 1
+  #placement: 1
   preview_only: false
 
 # Associated Projects (optional).
