@@ -35,7 +35,7 @@ Fall 2019, Winter 2019 |  MATH 126  | Pre-Calculus I
 Fall 2019, Spring 2019 |  STA 270  | Applied Statistics
 Spring 2018 |  MATH 125  | Pre-Calculus
 Fall 2017 |  MATH 108  | Algebra for Pre-Calculus
-  | &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp **Teaching Assistant, KNUST** | |
+| &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp **Teaching Assistant, KNUST** | |
 Spring 2017 |  ACTS 567  | Actuarial Mathematics I
 Fall 2016 |  MATH 165  | Introduction to Vector Analysis
  
