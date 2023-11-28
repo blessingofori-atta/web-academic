@@ -26,11 +26,11 @@ publishDate: "2023-11-05T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: "4"
+publication_types: ["2"]
 # - "4"
 
 # Publication name and optional abbreviated publication name.
-publication: '"In Annals of Finance"
+publication: "In Annals of Finance"
 publication_short: ''
 
 abstract: We introduce a new system of stochastic differential equations which models dependence of market beta and unsystematic risk upon size, measured by market capitalization. We fit our model using size deciles data from Kenneth French’s data library. This model is somewhat similar to generalized volatility-stabilized models. The novelty of our work is twofold. First, we take into account the difference between price and total returns (in other words, between market size and wealth processes). Second, we work with actual market data. We study the long-term properties of this system of equations, and reproduce observed linearity of the capital distribution curve. In the “Appendix”, we analyze size-based real-world index funds.
