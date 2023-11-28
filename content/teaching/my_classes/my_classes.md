@@ -24,7 +24,7 @@ design:
   columns: "2" 
 ---
 
-<div align="center">
+
 |Semester |  Course | Course Title|
 :--- |  :--- | :--- |
 |<td colspan = "2"> **Graduate Teaching Assistant,&nbsp;&nbsp;UNR**| 
@@ -38,4 +38,4 @@ Fall 2017 |  MATH 108  | Algebra for Pre-Calculus
 |<td colspan = "2"> **Teaching Assistant, &nbsp;&nbsp;KNUST** | 
 Spring 2017 |  ACTS 567  | Actuarial Mathematics I
 Fall 2016 |  MATH 165  | Introduction to Vector Analysis
-</div>
+
