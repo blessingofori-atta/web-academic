@@ -14,7 +14,7 @@ organizations:
   url: https://ctsi.utah.edu/cores-and-services/triad/sdbc
 
 # Short bio (displayed in user profile at end of posts)
-bio: Biostatistician.
+bio: ''
 
 # Interests to show in About widget
 interests:
