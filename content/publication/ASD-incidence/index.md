@@ -48,7 +48,7 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'ASD-iincidence.jpg'
+url_poster: 'ASD-incidence.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
