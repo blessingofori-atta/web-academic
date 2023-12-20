@@ -1,5 +1,5 @@
 ---
-title: "Adherence to Guideline-Recommended cancer screening among Utah cancer survivorss"
+title: "Adherence to Guideline-Recommended cancer screening among Utah cancer survivors"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
