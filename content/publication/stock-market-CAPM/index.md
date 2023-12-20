@@ -17,7 +17,7 @@ draft: false
 # - "Equal contribution"
 
 date: "2021-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/s10436-021-00390-8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-11-05T00:00:00Z"
