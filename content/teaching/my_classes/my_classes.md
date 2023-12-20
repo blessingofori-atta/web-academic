@@ -26,7 +26,7 @@ design:
 
 #### Courses at the Univeristy of Nevada, Reno
 * Spring 2021 - Calculus I \
-  *MATH 181 | Undergraduate level tutorial sessions*
+  *<small>:MATH 181 | Undergraduate level tutorial sessions</small>*
 * Winter 2020 - Pre-Calculus II <br/>
    *MATH 127 | Undergraduate level lecture sessions* 
 * Fall 2020 - Calculus I <br/>
