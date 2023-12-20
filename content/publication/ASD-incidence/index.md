@@ -42,13 +42,13 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Conference-International Society for Autism Research
-#   url: https://www.researchgate.net/publication/374229831_Changes_in_the_Prevalence_and_Incidence_of_Autism_Spectrum_Disorder_Across_Multiple_Birth_Cohorts_in_Utah_USA
+# - name: "Custom Link"
+#   url: "https://www.researchgate.net/publication/374229831_Changes_in_the_Prevalence_and_Incidence_of_Autism_Spectrum_Disorder_Across_Multiple_Birth_Cohorts_in_Utah_USA"
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'ASD-incidence.pdf'
+url_poster: 'https://www.researchgate.net/publication/374229831_Changes_in_the_Prevalence_and_Incidence_of_Autism_Spectrum_Disorder_Across_Multiple_Birth_Cohorts_in_Utah_USA'
 url_project: ''
 url_slides: ''
 url_source: ''
