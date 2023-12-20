@@ -21,15 +21,15 @@ subtitle:
 # Section design
 design:
   # Use a 1-column layout
-  columns: "1" 
+  columns: "3" 
 ---
 
 #### Courses at the Univeristy of Nevada, Reno
-* Spring 2021 - Calculus \
+* Spring 2021 - Calculus I \
   *MATH 181 | Undergraduate level tutorial sessions*
 * Winter 2020 - Pre-Calculus II <br/>
    *MATH 127 | Undergraduate level lecture sessions* 
-* Fall 2020 - Calculus <br/>
+* Fall 2020 - Calculus I <br/>
    *MATH 181 | Undergraduate level tutorial sessions*
 * Summer 2020 - Pre-Calculus II <br/>
    *MATH 127 | Undergraduate level lecture sessions*
