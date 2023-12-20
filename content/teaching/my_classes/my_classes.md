@@ -43,9 +43,9 @@ design:
 ---
 
 #### Courses at Northern Arizona University
-* Spring 2019 - Applied Statistic \
+* Spring 2019 - Applied Statistics \
   *<small>STA 270 | Undergraduate level lecture sessions</small>*
-* Fall 2018 - Applied Statistic \
+* Fall 2018 - Applied Statistics \
   *<small>STA 270 | Undergraduate level lecture sessions</small>*
 * Spring 2018 - Pre-Calculus \
   *<small>MATH 125 | Undergraduate level lecture sessions</small>*
