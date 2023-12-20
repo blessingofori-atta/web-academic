@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 # Section title
-title: Courses
+title: Teaching
 
 # Section subtitle
 subtitle:
@@ -21,21 +21,9 @@ subtitle:
 # Section design
 design:
   # Use a 1-column layout
-  columns: "2" 
+  columns: "1" 
 ---
 
-
-|Semester |  Course | Course Title|
-:--- | :--- | :--- |
-|| **Graduate Teaching Assistant,&nbsp;&nbsp;UNR**|
-Fall 2020, Spring 2021   |  MATH 181  | Calculus
-Spring 2020, Summer 2020, Winter 2020 |  MATH 127  | Pre-Calculus II
-Fall 2019, Winter 2019 |  MATH 126  | Pre-Calculus I
-|| **Graduate Student Instructor,&nbsp;&nbsp;NAU**|
-Fall 2019, Spring 2019 |  STA 270  | Applied Statistics
-Spring 2018 |  MATH 125  | Pre-Calculus
-Fall 2017 |  MATH 108  | Algebra for Pre-Calculus
-||**Teaching Assistant, &nbsp;&nbsp;KNUST**|
-Spring 2017 |  ACTS 567  | Actuarial Mathematics I
-Fall 2016 |  MATH 165  | Introduction to Vector Analysis
-
+#### Courses at the Univeristy of Nevada, Reno
+* Spring 2021 - Calculus <\br> MATH 181 | Undergraduate level tutorial sessions 
+* Fall 2020 - Calculus <\br> MATH 181 | Undergraduate level tutorial sessions
