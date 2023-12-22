@@ -9,7 +9,7 @@ authors:
 - admin
 - Andrew Sarantsev
 
-draft: false
+draft: true
 
 # Author notes (optional)
 # author_notes:
