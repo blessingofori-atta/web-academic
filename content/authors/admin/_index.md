@@ -79,10 +79,8 @@ user_groups:
 - Teachers
 ---
 
-Hello there! I'm Blessing, a Biostatistician at SDBC, University of Utah, with a passion for medical research. I specialize in diving deep into healthcare data and translating it into actionable insights. I am dedicated to providing state-of-the-art statistical support to researchers, making sure that their projects are not just scientifically robust but also socially impactful.
+Hi, I'm Blessing, a *Biostatistician at the University of Utah's Study Design and Biostatistics Center*. I work at the intersection of **data and medicine**, helping researchers turn complex health data into meaningful insights.
 
-I'm also a bit of a data detective. I love the challenge of finding the needles in the haystack, and I'm always looking for new ways to use data to make a difference.
+Whether it's **designing studies, analyzing data, or uncovering hidden patterns**, I'm driven by one goal: *using data to improve lives*. I bring curiosity, precision, and a deep commitment to scientific rigor to every project I support.
 
-Whether I'm working on a study design, or analyzing data from a large observational study to identify risk factors for disease or situations, I'm always driven by the same goal: to use data to improve the lives of others.
-
-**If you're interested in learning more about my work, or if you have a data mystery that needs solving, please don't hesitate to contact me. I'm always happy to help.**
+If you're working on a research study or facing a data challenge, **I'd love to connect**.
